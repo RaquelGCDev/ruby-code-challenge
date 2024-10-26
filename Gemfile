@@ -7,4 +7,6 @@ group :development, :test do
   gem 'rubocop-minitest'
   gem 'rubocop-rake'
   gem 'mocha', '~> 2.1'
+  gem 'rspec'
+  gem 'byebug'
 end
